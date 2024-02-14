@@ -20,8 +20,7 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 This project is licensed under the [MIT License](LICENSE).
 
-![Dino Game Screenshot](./images/Screenshot%202024-02-14%20at%2018.55.35.png)
-
+![Dino Game Screenshot](./images/Screenshot%202024-02-14%20at%2018.55.35.png){:target="_blank"}
 
 
  
