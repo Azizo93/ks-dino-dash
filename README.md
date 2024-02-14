@@ -10,7 +10,7 @@ You can either click the above link to play the game or follow the instructions 
 
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in your preferred web browser.
-3. The game will begin and you can use the space bar, mounse click or up arroun to jump and avoid the obstacles.
+3. The game will begin and you can use the "space bar", "mouse click" or "up" to jump and avoid the obstacles.
 
 ## Development
 
@@ -20,8 +20,7 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 This project is licensed under the [MIT License](LICENSE).
 
-![Dino Game Screenshot](./images/Screenshot%202024-02-14%20at%2018.55.35.png)
-
+![Dino Game Screenshot](./images/Screenshot%202024-02-14%20at%2018.55.35.png){:target="_blank"}
 
 
  
