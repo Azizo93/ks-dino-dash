@@ -2,7 +2,7 @@
 
 Welcome to Dino Dash! This classic game has been a favorite for many users who find themselves without an internet connection. Now you can play it any itme any place. Whether you're trying to beat your high score or just looking for a fun way to pass the time, this game is perfect for you.
 
-You can play the game directly in your browser by clicking [here](https://azizo93.github.io/ks-dino-dash/).
+You can play the game directly in your browser by clicking [here](https://azizo93.github.io/ks-dino-dash/){:target="_blank"}.
 
 ## How to Play
 
