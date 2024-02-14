@@ -10,7 +10,7 @@ You can either click the above link to play the game or follow the instructions 
 
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in your preferred web browser.
-3. The game will begin and you can use the space bar, mounse click or up arroun to jump and avoid the obstacles.
+3. The game will begin and you can use the "space bar", "mouse click" or "up" to jump and avoid the obstacles.
 
 ## Development
 
