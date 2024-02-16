@@ -9,7 +9,7 @@ const OBSTACLE_SIZES = ['xs','s','m','l'];
 
 function addJumpListener() {
     document.addEventListener('keydown', event => {
-        if(event.key === ' ' || event.key === 'ArrowUp') {
+        if(event.key === ' ' || event.key === 'ArrowUp' || event.key === 'w' || event.key === 'W') {
             jump();
         }
     })
