@@ -4,9 +4,8 @@ const scoreElement = document.querySelector('.score-card .score');
 const highScoreElement = document.querySelector('.score-card .high-score');
 const restartGameElement = document.querySelector('.restart-game');
 const gameContainerElement = document.querySelector('.game-container');
-
 const OBSTACLE_SIZES = ['xs','s','m','l'];
-// JUMP
+
 
 function addJumpListener() {
     document.addEventListener('keydown', event => {
@@ -31,8 +30,6 @@ function jump() {
 }
 
 
-// COLLISION
-
 let collisionInterval;
 function monitorCollision() {
     collisionInterval = setInterval(() => {
@@ -43,7 +40,6 @@ function monitorCollision() {
     }, 10);
 }
 
-// Left buffer for tail
 
 const LEFT_BUFFER = 50;
 function isCollision() {
@@ -64,7 +60,6 @@ function isCollision() {
     return xCollision && yCollision;
 }
 
-// SCORE
 
 let score = 0;
 function setScore(newScore) {
@@ -90,7 +85,6 @@ function checkForHighScore() {
     }
 }
 
-// RANDOMISE OBSTACLE
  
 function getRandomObstacleSize() {
     const index = Math.floor(Math.random() * (OBSTACLE_SIZES.length - 1));
@@ -105,7 +99,6 @@ function randomiseObstacle() {
     }, 3000);
 }
 
-// STOP GAME
 
 function stopGame() {
     clearInterval(collisionInterval);
